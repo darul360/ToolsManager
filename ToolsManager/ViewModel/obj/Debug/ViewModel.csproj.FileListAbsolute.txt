@@ -1,0 +1,12 @@
+C:\Users\BOOTCAMP2020\source\repos\ToolsManager\ViewModel\obj\Debug\ViewModel.csprojAssemblyReference.cache
+C:\Users\BOOTCAMP2020\source\repos\ToolsManager\ViewModel\obj\Debug\ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\BOOTCAMP2020\source\repos\ToolsManager\ViewModel\bin\Debug\ViewModel.dll
+C:\Users\BOOTCAMP2020\source\repos\ToolsManager\ViewModel\bin\Debug\ViewModel.pdb
+C:\Users\BOOTCAMP2020\source\repos\ToolsManager\ViewModel\bin\Debug\Model.dll
+C:\Users\BOOTCAMP2020\source\repos\ToolsManager\ViewModel\bin\Debug\EntityFramework.dll
+C:\Users\BOOTCAMP2020\source\repos\ToolsManager\ViewModel\bin\Debug\Model.pdb
+C:\Users\BOOTCAMP2020\source\repos\ToolsManager\ViewModel\bin\Debug\Model.dll.config
+C:\Users\BOOTCAMP2020\source\repos\ToolsManager\ViewModel\bin\Debug\EntityFramework.xml
+C:\Users\BOOTCAMP2020\source\repos\ToolsManager\ViewModel\obj\Debug\ViewModel.csproj.CopyComplete
+C:\Users\BOOTCAMP2020\source\repos\ToolsManager\ViewModel\obj\Debug\ViewModel.dll
+C:\Users\BOOTCAMP2020\source\repos\ToolsManager\ViewModel\obj\Debug\ViewModel.pdb

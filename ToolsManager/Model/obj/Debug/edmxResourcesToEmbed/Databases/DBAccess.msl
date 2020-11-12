@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ToolsModelStoreContainer" CdmEntityContainer="ToolsEntities">
+    <EntitySetMapping Name="Tools">
+      <EntityTypeMapping TypeName="ToolsModel.Tools">
+        <MappingFragment StoreEntitySet="Tools">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Manufacturer" ColumnName="Manufacturer" />
+          <ScalarProperty Name="Model" ColumnName="Model" />
+          <ScalarProperty Name="Mac" ColumnName="Mac" />
+          <ScalarProperty Name="IpAdress" ColumnName="IpAdress" />
+          <ScalarProperty Name="SerialNumber" ColumnName="SerialNumber" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
